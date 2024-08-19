@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000;
+}
+
+#gameCanvasContainer {
+    border: 2px solid #fff;
+    background-color: #111;
+}
+
+canvas {
+    display: block;
+}
+* {
+    color: blue;
+    text-shadow: 2px 3px darkblue;
+}
